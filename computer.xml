@@ -1,0 +1,28 @@
+<computer>
+  <ports>
+    <usbports>
+      <usb />
+      <usb />
+      <usb />
+      <usb />
+    </usbports>
+    <monitor />
+  <headphonejack />
+  </ports>
+  <screen />
+  <mouse />
+  <keyboard />
+  <drives>
+    <hhd />
+    <cd />
+    <floppy /> <!-- as if that's a thing anymore -->
+    <ssd />
+  </drives>
+  <motherboard>
+    <processor />
+    <ram>
+      <ramchip />
+      <ramchip />
+    </ram>
+  </motherboard>
+</computer>
